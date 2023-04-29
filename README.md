@@ -1,3 +1,3 @@
-# Desktop_Assistant
+# Lucifer - The Smart Desktop Assistant
 
-Made a desktop assistant by implementing a part of Artificial Intelligence using various libraries and APIs. It takes voice input and gives voice output along with performing various functions like opening software, searching google and youtube, cracking random jokes, COVID cases, Weather Forecast etc.
+I developed a cutting-edge desktop assistant that utilizes voice recognition technology to accept verbal commands and provide auditory feedback while simultaneously executing a range of functions on both the operating system and the application itself. This innovative project required extensive research and development, as well as significant programming skills, in order to create a seamless and intuitive user experience. Through this project, I gained expertise in areas such as natural language processing, python libraries, and software engineering. Ultimately, my desktop assistant project reflects my dedication to leveraging the latest technologies to deliver exceptional results in any professional setting.
